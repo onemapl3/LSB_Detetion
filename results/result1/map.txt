@@ -1,0 +1,11 @@
+ calculation mAP (mean average precision)...
+128
+ detections_count = 286, unique_truth_count = 128  
+class_id = 0, name = LSB, ap = 93.40%   	 (TP = 120, FP = 25) 
+
+ for conf_thresh = 0.25, precision = 0.83, recall = 0.94, F1-score = 0.88 
+ for conf_thresh = 0.25, TP = 120, FP = 25, FN = 8, average IoU = 66.49 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.934049, or 93.40 % 
+Total Detection Time: 8 Seconds

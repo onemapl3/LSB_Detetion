@@ -1,0 +1,16 @@
+calculation mAP (mean average precision)...
+124
+ detections_count = 326, unique_truth_count = 122  
+class_id = 0, name = LSB, ap = 91.11%   	 (TP = 108, FP = 18) 
+
+ for conf_thresh = 0.25, precision = 0.86, recall = 0.89, F1-score = 0.87 
+ for conf_thresh = 0.25, TP = 108, FP = 18, FN = 14, average IoU = 66.80 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.911129, or 91.11 % 
+Total Detection Time: 9 Seconds
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset

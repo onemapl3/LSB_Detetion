@@ -1,0 +1,277 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 128 K-images (2 Kilo-batches_64) 
+Enter Image Path: data/obj/409.jpg: Predicted in 33.041000 milli-seconds.
+LSB: 87%	(left_x:   12   top_y:  917   width:  180   height:  179)
+LSB: 90%	(left_x: 1031   top_y:  535   width:  218   height:  182)
+Enter Image Path: data/obj/470.jpg: Predicted in 32.505000 milli-seconds.
+LSB: 28%	(left_x: 1414   top_y: 1180   width:  286   height:  174)
+LSB: 84%	(left_x: 1592   top_y: 1163   width:  220   height:  170)
+Enter Image Path: data/obj/37.jpg: Predicted in 32.950000 milli-seconds.
+LSB: 57%	(left_x:    6   top_y:  705   width:  164   height:  100)
+Enter Image Path: data/obj/163.jpg: Predicted in 32.624000 milli-seconds.
+Enter Image Path: data/obj/454.jpg: Predicted in 32.704000 milli-seconds.
+LSB: 95%	(left_x:  123   top_y: 1112   width:  193   height:  151)
+Enter Image Path: data/obj/869.jpg: Predicted in 32.624000 milli-seconds.
+LSB: 98%	(left_x:  722   top_y:  818   width:  224   height:  175)
+Enter Image Path: data/obj/533.jpg: Predicted in 32.717000 milli-seconds.
+LSB: 96%	(left_x:  666   top_y: 1249   width:  254   height:  182)
+Enter Image Path: data/obj/568.jpg: Predicted in 32.752000 milli-seconds.
+LSB: 96%	(left_x: 1630   top_y:  637   width:  190   height:  168)
+Enter Image Path: data/obj/1072.jpg: Predicted in 32.854000 milli-seconds.
+LSB: 60%	(left_x:  892   top_y: 1116   width:  204   height:  179)
+LSB: 28%	(left_x: 1166   top_y: 1287   width:  210   height:  155)
+Enter Image Path: data/obj/1121.jpg: Predicted in 32.624000 milli-seconds.
+LSB: 93%	(left_x:   52   top_y:  321   width:  220   height:  149)
+Enter Image Path: data/obj/859.jpg: Predicted in 32.736000 milli-seconds.
+LSB: 79%	(left_x:  559   top_y: 1135   width:  173   height:  172)
+Enter Image Path: data/obj/824.jpg: Predicted in 32.541000 milli-seconds.
+LSB: 98%	(left_x:  723   top_y:  926   width:  257   height:  151)
+Enter Image Path: data/obj/789.jpg: Predicted in 32.803000 milli-seconds.
+LSB: 78%	(left_x:  185   top_y:  359   width:  201   height:  176)
+LSB: 41%	(left_x: 1601   top_y:   -3   width:  210   height:   80)
+Enter Image Path: data/obj/133.jpg: Predicted in 32.618000 milli-seconds.
+LSB: 73%	(left_x: 1815   top_y:  873   width:  216   height:  160)
+Enter Image Path: data/obj/894.jpg: Predicted in 35.516000 milli-seconds.
+Enter Image Path: data/obj/788.jpg: Predicted in 32.582000 milli-seconds.
+LSB: 48%	(left_x:    7   top_y:  586   width:  114   height:  148)
+LSB: 93%	(left_x:  513   top_y: 1215   width:  219   height:  167)
+LSB: 38%	(left_x: 1094   top_y:   87   width:  203   height:  140)
+Enter Image Path: data/obj/912.jpg: Predicted in 32.635000 milli-seconds.
+LSB: 93%	(left_x: 1066   top_y:  735   width:  215   height:  195)
+Enter Image Path: data/obj/167.jpg: Predicted in 32.637000 milli-seconds.
+LSB: 94%	(left_x:  642   top_y:  766   width:  211   height:  158)
+Enter Image Path: data/obj/134.jpg: Predicted in 33.437000 milli-seconds.
+LSB: 49%	(left_x:  -14   top_y:  840   width:  240   height:  168)
+LSB: 72%	(left_x:  916   top_y:  958   width:  235   height:  171)
+Enter Image Path: data/obj/1025.jpg: Predicted in 32.624000 milli-seconds.
+LSB: 90%	(left_x:  189   top_y: 1147   width:  204   height:  153)
+Enter Image Path: data/obj/32.jpg: Predicted in 32.544000 milli-seconds.
+LSB: 92%	(left_x:  721   top_y:  538   width:  187   height:  145)
+Enter Image Path: data/obj/1007.jpg: Predicted in 32.875000 milli-seconds.
+LSB: 97%	(left_x:  850   top_y:  570   width:  165   height:  136)
+Enter Image Path: data/obj/145.jpg: Predicted in 32.644000 milli-seconds.
+LSB: 36%	(left_x: 1274   top_y:  204   width:  238   height:  128)
+Enter Image Path: data/obj/951.jpg: Predicted in 32.603000 milli-seconds.
+LSB: 90%	(left_x:  220   top_y: 1231   width:  214   height:  149)
+Enter Image Path: data/obj/1112.jpg: Predicted in 32.810000 milli-seconds.
+LSB: 91%	(left_x:  921   top_y: 1266   width:  238   height:  189)
+Enter Image Path: data/obj/542.jpg: Predicted in 32.776000 milli-seconds.
+LSB: 94%	(left_x: 1216   top_y:  331   width:  215   height:  169)
+Enter Image Path: data/obj/1097.jpg: Predicted in 32.660000 milli-seconds.
+Enter Image Path: data/obj/339.jpg: Predicted in 32.647000 milli-seconds.
+LSB: 86%	(left_x: 1338   top_y: 1257   width:  216   height:  151)
+Enter Image Path: data/obj/211.jpg: Predicted in 32.656000 milli-seconds.
+LSB: 76%	(left_x:  224   top_y: 1057   width:  207   height:  168)
+Enter Image Path: data/obj/702.jpg: Predicted in 32.855000 milli-seconds.
+LSB: 86%	(left_x:  386   top_y:  319   width:  204   height:  158)
+Enter Image Path: data/obj/410.jpg: Predicted in 32.540000 milli-seconds.
+LSB: 34%	(left_x:  152   top_y:  197   width:  205   height:  158)
+LSB: 77%	(left_x: 1195   top_y:   52   width:  247   height:  165)
+Enter Image Path: data/obj/279.jpg: Predicted in 32.471000 milli-seconds.
+LSB: 99%	(left_x:  742   top_y:  656   width:  288   height:  150)
+Enter Image Path: data/obj/904.jpg: Predicted in 32.513000 milli-seconds.
+LSB: 95%	(left_x:  570   top_y:  605   width:  242   height:  181)
+Enter Image Path: data/obj/479.jpg: Predicted in 32.642000 milli-seconds.
+LSB: 53%	(left_x: 1488   top_y: 1210   width:  250   height:  174)
+LSB: 29%	(left_x: 1539   top_y: 1030   width:  256   height:  178)
+Enter Image Path: data/obj/868.jpg: Predicted in 32.643000 milli-seconds.
+LSB: 98%	(left_x:  525   top_y: 1141   width:  240   height:  168)
+Enter Image Path: data/obj/603.jpg: Predicted in 32.706000 milli-seconds.
+LSB: 81%	(left_x:  733   top_y:  921   width:  197   height:  159)
+Enter Image Path: data/obj/567.jpg: Predicted in 33.010000 milli-seconds.
+LSB: 89%	(left_x: 1820   top_y: 1118   width:  218   height:  144)
+Enter Image Path: data/obj/827.jpg: Predicted in 32.934000 milli-seconds.
+LSB: 80%	(left_x:  808   top_y:  632   width:  239   height:  177)
+LSB: 61%	(left_x:  832   top_y:  142   width:  270   height:  163)
+Enter Image Path: data/obj/1052.jpg: Predicted in 32.564000 milli-seconds.
+LSB: 28%	(left_x:  534   top_y:  924   width:  173   height:  163)
+LSB: 82%	(left_x: 1859   top_y: 1208   width:  190   height:  131)
+Enter Image Path: data/obj/781.jpg: Predicted in 32.619000 milli-seconds.
+Enter Image Path: data/obj/515.jpg: Predicted in 32.753000 milli-seconds.
+LSB: 87%	(left_x:  154   top_y:  795   width:  216   height:  169)
+LSB: 80%	(left_x:  930   top_y:  199   width:  251   height:  159)
+Enter Image Path: data/obj/397.jpg: Predicted in 32.798000 milli-seconds.
+LSB: 81%	(left_x: 1813   top_y:  932   width:  233   height:  170)
+Enter Image Path: data/obj/602.jpg: Predicted in 32.911000 milli-seconds.
+LSB: 94%	(left_x:   19   top_y:  620   width:  177   height:  184)
+Enter Image Path: data/obj/137.jpg: Predicted in 32.675000 milli-seconds.
+LSB: 89%	(left_x: 1685   top_y:  665   width:  224   height:  165)
+Enter Image Path: data/obj/185.jpg: Predicted in 32.677000 milli-seconds.
+LSB: 27%	(left_x:  353   top_y:   -2   width:  182   height:   89)
+LSB: 86%	(left_x:  811   top_y: 1231   width:  176   height:  162)
+Enter Image Path: data/obj/1016.jpg: Predicted in 32.727000 milli-seconds.
+LSB: 97%	(left_x:  994   top_y: 1070   width:  235   height:  168)
+LSB: 33%	(left_x: 1907   top_y:  136   width:  149   height:  147)
+Enter Image Path: data/obj/224.jpg: Predicted in 32.805000 milli-seconds.
+LSB: 90%	(left_x:  337   top_y:  123   width:  207   height:  163)
+Enter Image Path: data/obj/449.jpg: Predicted in 32.664000 milli-seconds.
+LSB: 88%	(left_x:  361   top_y:  138   width:  203   height:  164)
+Enter Image Path: data/obj/150.jpg: Predicted in 32.722000 milli-seconds.
+LSB: 94%	(left_x: 1714   top_y:  234   width:  228   height:  145)
+Enter Image Path: data/obj/559.jpg: Predicted in 32.542000 milli-seconds.
+LSB: 87%	(left_x:  380   top_y: 1018   width:  221   height:  151)
+Enter Image Path: data/obj/1091.jpg: Predicted in 33.313000 milli-seconds.
+LSB: 95%	(left_x: 1431   top_y:  708   width:  267   height:  174)
+Enter Image Path: data/obj/668.jpg: Predicted in 32.726000 milli-seconds.
+LSB: 89%	(left_x: 1624   top_y:  228   width:  204   height:  155)
+Enter Image Path: data/obj/345.jpg: Predicted in 32.853000 milli-seconds.
+LSB: 52%	(left_x: 1879   top_y: 1279   width:  167   height:  152)
+Enter Image Path: data/obj/273.jpg: Predicted in 32.671000 milli-seconds.
+LSB: 98%	(left_x:  140   top_y:  423   width:  264   height:  139)
+Enter Image Path: data/obj/747.jpg: Predicted in 32.914000 milli-seconds.
+LSB: 89%	(left_x: 1667   top_y:  231   width:  238   height:  148)
+Enter Image Path: data/obj/1032.jpg: Predicted in 32.594000 milli-seconds.
+LSB: 93%	(left_x: 1509   top_y: 1144   width:  210   height:  163)
+Enter Image Path: data/obj/1037.jpg: Predicted in 32.763000 milli-seconds.
+LSB: 95%	(left_x: 1360   top_y: 1223   width:  212   height:  161)
+Enter Image Path: data/obj/82.jpg: Predicted in 32.738000 milli-seconds.
+LSB: 92%	(left_x:  751   top_y:  508   width:  216   height:  186)
+Enter Image Path: data/obj/630.jpg: Predicted in 33.015000 milli-seconds.
+LSB: 90%	(left_x:  997   top_y:  168   width:  219   height:  170)
+Enter Image Path: data/obj/540.jpg: Predicted in 32.599000 milli-seconds.
+LSB: 63%	(left_x: 1442   top_y: 1112   width:  220   height:  143)
+Enter Image Path: data/obj/604.jpg: Predicted in 32.715000 milli-seconds.
+LSB: 67%	(left_x: 1504   top_y:  971   width:  171   height:  126)
+Enter Image Path: data/obj/140.jpg: Predicted in 32.812000 milli-seconds.
+LSB: 96%	(left_x: 1252   top_y:  306   width:  230   height:  174)
+Enter Image Path: data/obj/62.jpg: Predicted in 32.600000 milli-seconds.
+LSB: 82%	(left_x:  686   top_y: 1260   width:  192   height:  175)
+Enter Image Path: data/obj/102.jpg: Predicted in 32.699000 milli-seconds.
+LSB: 75%	(left_x:  513   top_y:  195   width:  193   height:  143)
+Enter Image Path: data/obj/1014.jpg: Predicted in 32.720000 milli-seconds.
+LSB: 75%	(left_x:   12   top_y: 1061   width:  194   height:  135)
+Enter Image Path: data/obj/412.jpg: Predicted in 32.692000 milli-seconds.
+LSB: 97%	(left_x: 1393   top_y:  986   width:  226   height:  160)
+Enter Image Path: data/obj/473.jpg: Predicted in 32.565000 milli-seconds.
+Enter Image Path: data/obj/207.jpg: Predicted in 32.637000 milli-seconds.
+LSB: 97%	(left_x: 1652   top_y:  152   width:  216   height:  173)
+Enter Image Path: data/obj/168.jpg: Predicted in 32.819000 milli-seconds.
+LSB: 93%	(left_x: 1555   top_y:  754   width:  247   height:  170)
+Enter Image Path: data/obj/51.jpg: Predicted in 32.655000 milli-seconds.
+LSB: 97%	(left_x:  772   top_y: 1031   width:  213   height:  170)
+Enter Image Path: data/obj/419.jpg: Predicted in 32.588000 milli-seconds.
+LSB: 76%	(left_x: 1626   top_y: 1023   width:  269   height:  166)
+LSB: 72%	(left_x: 1733   top_y:  997   width:  272   height:  167)
+Enter Image Path: data/obj/200.jpg: Predicted in 32.636000 milli-seconds.
+LSB: 96%	(left_x:  292   top_y:  866   width:  299   height:  172)
+Enter Image Path: data/obj/103.jpg: Predicted in 32.523000 milli-seconds.
+LSB: 87%	(left_x:  586   top_y: 1307   width:  238   height:  156)
+Enter Image Path: data/obj/633.jpg: Predicted in 32.742000 milli-seconds.
+LSB: 41%	(left_x:  829   top_y:  771   width:  200   height:  164)
+LSB: 39%	(left_x: 1148   top_y:    7   width:  211   height:   82)
+Enter Image Path: data/obj/317.jpg: Predicted in 34.024000 milli-seconds.
+LSB: 89%	(left_x: 1146   top_y: 1093   width:  197   height:  184)
+Enter Image Path: data/obj/314.jpg: Predicted in 32.717000 milli-seconds.
+LSB: 77%	(left_x:  328   top_y:  210   width:  214   height:  159)
+Enter Image Path: data/obj/366.jpg: Predicted in 32.657000 milli-seconds.
+LSB: 50%	(left_x:   64   top_y:  975   width:  286   height:  147)
+LSB: 94%	(left_x:  883   top_y:  681   width:  225   height:  171)
+Enter Image Path: data/obj/652.jpg: Predicted in 32.937000 milli-seconds.
+LSB: 97%	(left_x: 1166   top_y:  583   width:  282   height:  156)
+Enter Image Path: data/obj/498.jpg: Predicted in 32.584000 milli-seconds.
+LSB: 82%	(left_x:  385   top_y: 1306   width:  212   height:  154)
+Enter Image Path: data/obj/213.jpg: Predicted in 32.687000 milli-seconds.
+LSB: 80%	(left_x: 1796   top_y: 1046   width:  235   height:  161)
+Enter Image Path: data/obj/372.jpg: Predicted in 32.867000 milli-seconds.
+LSB: 25%	(left_x:  229   top_y:   -4   width:  187   height:   89)
+LSB: 85%	(left_x: 1553   top_y:  604   width:  211   height:  183)
+Enter Image Path: data/obj/712.jpg: Predicted in 32.812000 milli-seconds.
+LSB: 93%	(left_x: 1211   top_y: 1153   width:  211   height:  177)
+Enter Image Path: data/obj/762.jpg: Predicted in 32.425000 milli-seconds.
+LSB: 74%	(left_x:  694   top_y:  493   width:  233   height:  175)
+Enter Image Path: data/obj/737.jpg: Predicted in 32.985000 milli-seconds.
+LSB: 89%	(left_x:  290   top_y:  439   width:  228   height:  173)
+Enter Image Path: data/obj/571.jpg: Predicted in 32.617000 milli-seconds.
+LSB: 81%	(left_x:  515   top_y:  901   width:  215   height:  166)
+LSB: 27%	(left_x: 1372   top_y:   -5   width:  229   height:   86)
+Enter Image Path: data/obj/1123.jpg: Predicted in 32.741000 milli-seconds.
+LSB: 67%	(left_x: 1719   top_y: 1122   width:  216   height:  150)
+Enter Image Path: data/obj/1106.jpg: Predicted in 32.843000 milli-seconds.
+LSB: 98%	(left_x: 1234   top_y: 1181   width:  190   height:  141)
+Enter Image Path: data/obj/452.jpg: Predicted in 32.607000 milli-seconds.
+LSB: 78%	(left_x: 1276   top_y: 1083   width:  231   height:  162)
+LSB: 81%	(left_x: 1560   top_y: 1259   width:  231   height:  170)
+Enter Image Path: data/obj/918.jpg: Predicted in 32.648000 milli-seconds.
+LSB: 97%	(left_x:  823   top_y:  566   width:  218   height:  168)
+Enter Image Path: data/obj/405.jpg: Predicted in 32.761000 milli-seconds.
+LSB: 94%	(left_x:  382   top_y:   83   width:  212   height:  166)
+Enter Image Path: data/obj/554.jpg: Predicted in 32.525000 milli-seconds.
+LSB: 76%	(left_x: 1811   top_y: 1169   width:  188   height:  152)
+Enter Image Path: data/obj/457.jpg: Predicted in 32.625000 milli-seconds.
+LSB: 96%	(left_x:  304   top_y:  785   width:  213   height:  169)
+Enter Image Path: data/obj/127.jpg: Predicted in 32.909000 milli-seconds.
+LSB: 94%	(left_x:  679   top_y: 1045   width:  176   height:  156)
+Enter Image Path: data/obj/589.jpg: Predicted in 32.798000 milli-seconds.
+LSB: 78%	(left_x:  292   top_y:  237   width:  216   height:  180)
+LSB: 66%	(left_x: 1158   top_y:  850   width:  258   height:  180)
+Enter Image Path: data/obj/41.jpg: Predicted in 32.892000 milli-seconds.
+LSB: 84%	(left_x:  362   top_y:   55   width:  212   height:  153)
+Enter Image Path: data/obj/1122.jpg: Predicted in 32.698000 milli-seconds.
+LSB: 34%	(left_x:  679   top_y: 1006   width:  189   height:  140)
+LSB: 95%	(left_x: 1108   top_y:   32   width:  231   height:  147)
+Enter Image Path: data/obj/9.jpg: Predicted in 32.809000 milli-seconds.
+LSB: 96%	(left_x:  336   top_y:  531   width:  219   height:  181)
+Enter Image Path: data/obj/770.jpg: Predicted in 32.874000 milli-seconds.
+Enter Image Path: data/obj/864.jpg: Predicted in 32.489000 milli-seconds.
+LSB: 97%	(left_x: 1060   top_y:  737   width:  221   height:  172)
+Enter Image Path: data/obj/117.jpg: Predicted in 32.906000 milli-seconds.
+LSB: 85%	(left_x: 1000   top_y: 1047   width:  227   height:  158)
+Enter Image Path: data/obj/475.jpg: Predicted in 32.705000 milli-seconds.
+Enter Image Path: data/obj/481.jpg: Predicted in 33.252000 milli-seconds.
+LSB: 92%	(left_x: 1545   top_y:  187   width:  198   height:  149)
+Enter Image Path: data/obj/718.jpg: Predicted in 32.413000 milli-seconds.
+LSB: 96%	(left_x:  897   top_y:  143   width:  230   height:  154)
+Enter Image Path: data/obj/939.jpg: Predicted in 32.952000 milli-seconds.
+LSB: 96%	(left_x: 1421   top_y: 1093   width:  207   height:  160)
+Enter Image Path: data/obj/364.jpg: Predicted in 32.583000 milli-seconds.
+LSB: 93%	(left_x: 1590   top_y: 1214   width:  231   height:  185)
+Enter Image Path: data/obj/423.jpg: Predicted in 32.674000 milli-seconds.
+Enter Image Path: data/obj/833.jpg: Predicted in 33.035000 milli-seconds.
+LSB: 92%	(left_x:  247   top_y:   -2   width:  236   height:  147)
+LSB: 96%	(left_x:  326   top_y: 1285   width:  220   height:  162)
+Enter Image Path: data/obj/287.jpg: Predicted in 32.382000 milli-seconds.
+LSB: 97%	(left_x:  957   top_y:  346   width:  243   height:  183)
+Enter Image Path: data/obj/443.jpg: Predicted in 32.921000 milli-seconds.
+LSB: 78%	(left_x: 1833   top_y: 1216   width:  221   height:  157)
+Enter Image Path: data/obj/1010.jpg: Predicted in 32.414000 milli-seconds.
+LSB: 96%	(left_x: 1173   top_y:  493   width:  216   height:  174)
+Enter Image Path: data/obj/825.jpg: Predicted in 32.751000 milli-seconds.
+LSB: 89%	(left_x: 1469   top_y:  955   width:  204   height:  189)
+LSB: 85%	(left_x: 1745   top_y:   13   width:  219   height:  163)
+Enter Image Path: data/obj/920.jpg: Predicted in 32.511000 milli-seconds.
+LSB: 97%	(left_x: 1169   top_y:  646   width:  240   height:  183)
+Enter Image Path: data/obj/285.jpg: Predicted in 32.892000 milli-seconds.
+LSB: 98%	(left_x: 1362   top_y:  532   width:  235   height:  164)
+Enter Image Path: data/obj/667.jpg: Predicted in 32.786000 milli-seconds.
+LSB: 96%	(left_x:  982   top_y:  601   width:  230   height:  188)
+Enter Image Path: data/obj/661.jpg: Predicted in 32.596000 milli-seconds.
+LSB: 96%	(left_x:  339   top_y:  202   width:  208   height:  155)
+Enter Image Path: data/obj/742.jpg: Predicted in 32.755000 milli-seconds.
+LSB: 88%	(left_x:  274   top_y:  668   width:  226   height:  164)
+Enter Image Path: data/obj/248.jpg: Predicted in 32.587000 milli-seconds.
+LSB: 77%	(left_x:  877   top_y: 1118   width:  204   height:  176)
+Enter Image Path: data/obj/12.jpg: Predicted in 33.047000 milli-seconds.
+LSB: 92%	(left_x:  511   top_y:  367   width:  260   height:  174)
+Enter Image Path: data/obj/1030.jpg: Predicted in 32.497000 milli-seconds.
+LSB: 97%	(left_x: 1137   top_y: 1135   width:  263   height:  178)
+Enter Image Path: data/obj/489.jpg: Predicted in 32.910000 milli-seconds.
+LSB: 35%	(left_x:  521   top_y:  783   width:  171   height:  178)
+Enter Image Path: data/obj/377.jpg: Predicted in 32.427000 milli-seconds.
+LSB: 64%	(left_x:  778   top_y:  142   width:  207   height:  153)
+Enter Image Path: data/obj/494.jpg: Predicted in 32.616000 milli-seconds.
+LSB: 35%	(left_x:   28   top_y:  250   width:  208   height:  171)
+LSB: 74%	(left_x:  383   top_y:  385   width:  271   height:  194)
+Enter Image Path: data/obj/188.jpg: Predicted in 32.860000 milli-seconds.
+LSB: 70%	(left_x: 1080   top_y:  576   width:  228   height:  188)
+Enter Image Path: data/obj/1073.jpg: Predicted in 32.616000 milli-seconds.
+LSB: 98%	(left_x:  955   top_y: 1033   width:  247   height:  189)
+Enter Image Path: data/obj/166.jpg: Predicted in 32.698000 milli-seconds.
+LSB: 96%	(left_x:  293   top_y: 1057   width:  225   height:  147)
+Enter Image Path: data/obj/324.jpg: Predicted in 32.867000 milli-seconds.
+LSB: 93%	(left_x:  667   top_y:  653   width:  204   height:  164)
+Enter Image Path: data/obj/63.jpg: Predicted in 35.643000 milli-seconds.
+LSB: 38%	(left_x:    6   top_y:  534   width:  119   height:  154)
+LSB: 84%	(left_x:  579   top_y: 1236   width:  192   height:  151)
+Enter Image Path: 
